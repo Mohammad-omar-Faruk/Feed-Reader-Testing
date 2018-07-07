@@ -32,6 +32,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 The MIT License (MIT)
 
 Copyright (c) 2018 Mohammad omar faruk
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -42,4 +43,3 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-T
