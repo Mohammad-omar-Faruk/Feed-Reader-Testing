@@ -9,7 +9,7 @@ Download repositrory from <a href="https://github.com/Mohammad-omar-Faruk/Feed-R
 Then open the index.html file in a browser.
 
 
-##  Tests That Were Implemented
+## How I completed this project
 
 * Tests for allfeeds has been defined and that it is not empty 
 * Tests for allFeeds have a url and that the url is not empty
